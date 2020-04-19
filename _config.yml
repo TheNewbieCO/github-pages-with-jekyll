@@ -1,10 +1,12 @@
-title: Your awesome title
-author: GitHub User
+title: Nutrition & Muscles
+author: @TheNewbieCO
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Aquí vas a encontrar información relacionada con nutrición para construir musculo, 
+  resolviendo dudas relacionadas con: ¿How to build muscle?, ¿Qué comer para hacer crecer los musculos?, hago ejercicio y sigo flaco
+  De acuerdo con esto, puedes encontrar entrenamiento para gimnsaio, entrenamiento de barras e incluso secciones de rutinas spartanas
+  o rutinas de abdomen, todo esto relacionado ccon la nutrición ya que nutrición es el 70%, ejercicio el 30%.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
